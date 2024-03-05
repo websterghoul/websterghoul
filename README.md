@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -45,6 +41,26 @@
   <a href="https://discord.gg/ArmxwbTW" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gg&logo=discord&label=Discord&color=&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/websterghoul/websterghoul/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RiNGF1aXQyOHQ5NDFsNTV0bDJ5cTBjY2poNWl2aHNnbnZqaHV4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJITy6EKlCgiubbC2/giphy.gif"  />
+
+###
+
+<img align="right" height="200" src="https://media4.giphy.com/media/l3fzT5zFwWu4qaMwM/giphy.webp?cid=790b7611ywyimawj1j0uzl31xlb76qx1havs2ypih0h16wh5&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3piNTQ2NjgyamR0ZDYwODNrcjllZ2V0dGhkMDRhZTQyd2J6Y3h5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBn3ZRvCbWz2PS3Rbg/giphy.gif"  />
 </div>
 
 ###
